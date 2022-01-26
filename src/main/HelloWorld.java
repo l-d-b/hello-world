@@ -1,4 +1,4 @@
-package com.helloworld;
+package main;
 
 public class HelloWorld {
         public void welcome(String name) {
